@@ -1,8 +1,5 @@
-- 👋 Hi, my name is Mordecai 
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... cai.oladimeji@gmail.com 
+- 👋 Hi, my name is Mordecai
+- 📫 How to reach me ... cai.oladimeji@gmail.com or [My Twitter](https://twitter.com/mordecai_ola)
 
 <!---
 MordecaiO/MordecaiO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
