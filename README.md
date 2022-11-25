@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 💬 Ask me about **React, Nodejs, Java**
+- 💬 Ask me about **React, Nodejs**
 
 - 📫 How to reach me **cai.oladimeji@gmail.com**
 
