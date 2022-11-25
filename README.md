@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mordecai (Cai) Oladimeji</h1>
-<h3 align="center">A software developer from London, England</h3>
+<h1 align="center">Hi 👋, I'm Mordecai</h1>
+
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
